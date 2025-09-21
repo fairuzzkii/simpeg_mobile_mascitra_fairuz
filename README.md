@@ -2,17 +2,6 @@
 
 A new Flutter project.
 
-adkajdpoawjdawjdpoaw
-da[p
-dawo
-do[
-akokdwao[
-kawkd[
-awkd
-awkd
-awkp]awkdp
-]awkdazwkdawkpdwadawdawdawdadadadad
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
