@@ -2,11 +2,6 @@
 
 A new Flutter project.
 
-jdajdipajd8ipawd
-pajdpawojdpoawjdoawd
-o[oajd[oawjd[aowdj[ow
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
