@@ -2,20 +2,6 @@
 
 A new Flutter project.
 
-
-adajdpawojdowajd\a
-
-
-awdaw
-daw
-dad
-aw
-dawdaw'dawd'aw
-d'
-aw'd
-aw'd
-aw'd
-ad'
 ## Getting Started
 
 This project is a starting point for a Flutter application.
