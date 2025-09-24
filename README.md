@@ -2,11 +2,6 @@
 
 A new Flutter project.
 
-kajdajdiwajdw
-appjdpawojdopaw
-appwjdpaiwjdawpjqa
-ap'jdawipj'awpd
-
 ## Getting Started
 
 
