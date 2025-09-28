@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-
-akd[akdoawkd
-pwdakdpa
-kdawpwa
-1pawkdp
-akda
-aokd[awokda
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
